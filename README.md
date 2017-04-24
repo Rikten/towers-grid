@@ -3,7 +3,7 @@ Originally completed in mid-2014, this is an algorithm to generate valid layouts
 
 ##Run
 ```bash
-git clone https://github.com/Rikten/towers-grid.git
+git clone https://github.com/luctalatinian/towers-grid.git
 cd towers-grid
 make
 ./a.out <grid size>
